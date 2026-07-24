@@ -8,7 +8,9 @@
 
 - Git & GitHub
 - SQL
-- Python
+- Hadoop
+- Spark
+- Data Architecture
 - Data Engineering
 
 ## Missions
